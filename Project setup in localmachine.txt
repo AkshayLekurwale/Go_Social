@@ -2,6 +2,6 @@ Frontend :
 	npm i
 	npm start
 backend : 
-	create database "Social_Project"
+	create database "social_project"
 	change mysql username and password in application.properties file
 	run project
