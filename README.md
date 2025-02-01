@@ -39,4 +39,4 @@ Go_Social is a full-stack social media application built using **Spring Boot** f
 - Node.js and npm installed.
 - MySQL database.
 
-  ![Alt Text](/image.png)
+  ![Alt Text](/profile.png)
