@@ -50,5 +50,3 @@ Go_Social is a full-stack social media application built using **Spring Boot** f
 ## Massaging
   ![Alt Text](/Massage.png)
 
-## Posting
-    ![Alt Text](/Post.png)
